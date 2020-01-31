@@ -1,2 +1,2 @@
 # o-var
-o-var
+![shez](/shez-zoom.jpg)
