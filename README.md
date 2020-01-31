@@ -1,2 +1,2 @@
 # o-var
-![shez](/shez-zoom.jpg)
+![shez](//v.omuen.com/shez-zoom.jpg)
